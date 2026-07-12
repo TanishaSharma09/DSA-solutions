@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
