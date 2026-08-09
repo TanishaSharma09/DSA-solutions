@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
