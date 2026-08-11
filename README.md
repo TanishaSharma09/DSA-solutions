@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
