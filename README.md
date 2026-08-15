@@ -15,6 +15,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -56,6 +58,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
