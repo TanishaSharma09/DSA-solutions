@@ -17,6 +17,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -79,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -95,4 +97,20 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
