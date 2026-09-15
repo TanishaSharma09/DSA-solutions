@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
