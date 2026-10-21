@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,6 +50,7 @@
 | [0069-sqrtx](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -58,6 +60,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -69,6 +72,7 @@
 | [0015-3sum](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
@@ -155,8 +159,13 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
