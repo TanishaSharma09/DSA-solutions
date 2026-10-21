@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -57,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0015-3sum](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Counting
 |  |
 | ------- |
