@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -55,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0015-3sum](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
