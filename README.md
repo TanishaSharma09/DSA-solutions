@@ -114,6 +114,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -150,6 +151,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Trie
 |  |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
