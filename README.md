@@ -17,6 +17,7 @@
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
@@ -115,6 +116,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -192,4 +194,32 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0020-valid-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
