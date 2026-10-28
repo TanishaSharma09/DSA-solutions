@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -34,6 +35,7 @@
 | [0141-linked-list-cycle](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -74,6 +77,7 @@
 | [0217-contains-duplicate](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
 ## Counting
 |  |
 | ------- |
@@ -174,4 +178,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
