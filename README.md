@@ -168,6 +168,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
