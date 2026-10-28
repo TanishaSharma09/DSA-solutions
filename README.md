@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
@@ -118,6 +119,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0658-find-k-closest-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
