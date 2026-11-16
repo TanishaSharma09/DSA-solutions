@@ -118,6 +118,7 @@
 | [0344-reverse-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/TanishaSharma09/DSA-solutions/tree/master/0399-evaluate-division) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/TanishaSharma09/DSA-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TanishaSharma09/DSA-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
